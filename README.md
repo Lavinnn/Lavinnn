@@ -53,8 +53,8 @@ Este repositório é dedicado a compartilhar minha jornada de aprendizado e proj
 
 | Contato | Link |
 | :--- | :--- |
-| **LinkedIn** | [Lavínia Oliveira](SUBSTITUA_PELO_SEU_LINK_DO_LINKEDIN) |
-| **Email** | [Seu Email Aqui](mailto:SEU_EMAIL_AQUI) |
+| **LinkedIn** | [Lavínia Oliveira](www.linkedin.com/in/lavínia-oliveira-117993204) |
+| **Email** | [Seu Email Aqui](mailto:laviniaoliveirarosanascimento@gmail.com) |
 
 ---
 
